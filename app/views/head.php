@@ -17,12 +17,19 @@
                     </button>
                 </div>
                 <div class="container-fluid collapse navbar-collapse" id="navbar-responsive">
-                
-                
-</div>
+
+                <ul class="nav navbar-nav ml-auto">
+                    
+
+                   
+                   <li class="nav-item"><a class="nav-link" href="  <?php echo base_url("mapa")?>"> Mapa škol</a></li>
+              
+
+
+                </div>
 <div class="container collapse navbar-collapse">
                 <ul class="nav navbar-nav ml-auto ">
-
+                     
                     <li class="nav-item"><a class="nav-link" href="<?php echo base_url("auth/login")?>">Přihlásit se </a></li>
                     <li class="nav-item"><a class="nav-link" href="<?php echo base_url("auth/create_user")?>">Registrace </a></li>
              

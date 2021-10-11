@@ -22,7 +22,7 @@
                     
 
                     <li class="nav-item"><a class="nav-link" href="  <?php echo base_url("prijati")?>"> Přijatí uchazeči</a></li>
-                   <li class="nav-item"><a class="nav-link" href="  <?php echo base_url("mapa")?>"> Mapa škol</a></li>
+                   
               
 
 
